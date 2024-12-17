@@ -26,7 +26,7 @@ The OCR - TRANSLATOR System is designed to read text from images, recognize and 
 To set up the project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
-   git clone [text](https://github.com/SRH-WLH-AI/fop-project-ashutoshbehera07-tech.git)
+   git clone https://github.com/ashutoshbehera07-tech/OCR---TRANSLATOR.git
    cd OCR - TRANSLATOR-Sytem
    ```
 2. **Create a virtual environment and activate it:**
