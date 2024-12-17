@@ -57,9 +57,9 @@ def processing_image():
     else:
         print("No text found in the image.")
 
-def show_image(image_path):
-    pil_image = Image.open(image_path)
-    pil_image = pil_image.resize((200,200))
+def show_image(image_path): # Display the image in the output
+    pil_image = Image.open(image_path) # opening the image
+    pil_image = pil_image.resize((200,200)) # Giving the size of image
 
     tk_image = ImageTk.PhotoImage(pil_image)
 
