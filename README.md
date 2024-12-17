@@ -1,4 +1,4 @@
-#OCR - TRANSLATOR
+# OCR - TRANSLATOR
 Welcome to OCR - TRANSLATOR ! This project leverages advanced technologies and APIs such as OpenCV, Pytesseract, Googletrans, PIL, and Tkinter to achieve efficient text extraction and translation from images.The OCR Models are used in Medical Industries,Transport Industries, Eductional Industries and Social Media Industries and many more.
 ## Table of Contents
 *[Introduction] 
